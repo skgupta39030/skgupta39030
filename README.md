@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with *TCS as Data Analyst For North-Segment India*
 
-- 🌱 I’m currently learning *Advance SQL, Power Query, Selenium*
+- 🌱 I’m currently learning *GEN AI Implementation, Building Agentic AI tools, Advance SQL, Power Query, Selenium*
 
-- 💬 Ask me about *Power BI, Python, Pandas, Numpy, SQL*
+- 💬 Ask me about *Python, Pandas, Numpy, SQL, Power BI*
 
 - 📫 How to reach me *skgupta39030@gmail.com*
 
