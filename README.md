@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sudhanshu Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working with *TCS as Data Analyst For North-India*
+- 🔭 I’m currently working with *TCS as Data Analyst For North-Segment India*
 
 - 🌱 I’m currently learning *Advance SQL, Power Query, Selenium*
 
