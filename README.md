@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sudhanshu Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working with *TCS as Data Analyst For North-Segment India*
+- 🔭 I’m currently working with *TCS as Transformation Analyst For North-Segment India*
 
-- 🌱 I’m currently learning *GEN AI Implementation, Building Agentic AI tools, Advance SQL, Power Query, Selenium*
+- 🌱 I’m primarily working in *GEN AI Implementation, Machine Learning Model implementation, Advance SQL, Selenium*
 
-- 💬 Ask me about *Python, Pandas, Numpy, SQL, Power BI*
+- 💬 Ask me about *Python, Pandas, Numpy, Scikit-learn, Selenium, SQL, Power BI*
 
 - 📫 How to reach me *skgupta39030@gmail.com*
 
